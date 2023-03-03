@@ -1,0 +1,17 @@
+#modo{
+	width: 30px;
+	font-size: 70px;
+	margin:auto ;
+	cursor: pointer;
+}
+
+.dark{
+	background: rgb(4, 24, 27);
+
+}
+#comercial{
+	color: green;
+}
+ #nav-dark h2{
+	color: green;
+}

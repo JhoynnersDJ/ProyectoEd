@@ -1,0 +1,71 @@
+.imagen{
+    max-width:100%;
+}
+
+a{
+    cursor:pointer;
+}
+.alerta{
+    font-weight:700;
+}
+body{
+    background-color: #fff;
+    overflow-x: hidden;
+    font-family: 'Arima Madurai',cursive;;
+}
+.modal-contenedor{
+    display:flex;
+    align-items: center;
+    gap:2rem;
+}
+.img-carrito{
+    width:200px;
+    padding:20px;
+} 
+.modal-content{
+    background-color: #fff;
+}
+.parrafo{
+    font-weight: 700;
+    font-style: italic;
+}
+#precioTotal{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+}
+.boton{
+    opacity:0;
+}
+.btn-hover{
+    background-color: #881014;
+    border: none;
+    margin-bottom: 2rem;
+    color:#fff;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 0.8rem;
+    border-radius: 5px;
+    transition: all .3s ease-in-out;
+}
+.btn-hover:hover{
+    background-color: #000;
+    color:#fff;
+}
+.btn-hover-negro{
+    background-color: #000;
+    border: none;
+    margin-bottom: 2rem;
+    color:#fff;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 0.8rem;
+    border-radius: 5px;
+    transition: all .3s ease-in-out;
+}
+.btn-hover-negro:hover{
+    background-color: #000;
+    color:#fff;
+}
